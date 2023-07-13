@@ -1,0 +1,230 @@
+<html>
+<head>
+	<title>Dream Series</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+	 body {background-color: pink; color: purple; font-family: 'Helvetica'}
+body {
+  margin: 60;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #F98B88;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #E6E6FA;
+  color: purple;
+}
+
+.topnav a.active {
+  background-color: E75480;
+  color: white;
+}
+	</style>
+	
+</head>
+<body>
+	
+<div class="topnav">
+  <a class="active" href="#home">HOME</a>
+  <a href="#sleep walking">Sleep Walking</a>
+  <a href="#astral projection">Astral Projection</a>
+  <a href="#sleep paralysis">Sleep Paralysis</a>
+  <a href="#meditation">Meditation</a>
+  <a href="#ASMR">ASMR</a>
+  <a href="#related articles">Related Articles</a>
+  <a href="#about">About</a>
+</div>
+
+<div style="padding-left:16px">
+  <marquee><b><i><u>If you're looking for relaxation, ASMRs, sleeping routine guides, we can offer you high quality coaching. Sign up your email now!</u></i></b></marquee><br>
+<br>
+  <img src="https://images-na.ssl-images-amazon.com/images/I/61Q5p-KyuaL.jpg" width="500" height="500">
+  <p>Advertisement</p>
+</div>
+
+<hr size="10";background-color="purple">
+
+<h1 style="font-family:Georgia;" align="center">&#10024;Lucid Dreaming&#10024;</h1>
+
+<font size="5"><b>What is Lucid Dreaming?</b></font><br>
+<p>
+	Lucid dreaming is when you’re conscious during a dream. This typically happens during rapid eye movement (REM) sleep, the dream-stage of sleep.
+	An estimated 55 percent of people have had one or more lucid dreams in their lifetime.
+	During a lucid dream, you’re aware of your consciousness. It’s a form of metacognition, or awareness of your awareness. Often, lucid dreaming also lets you control what happens in your dream.
+	Some people report that lucid dreams feel very vivid and real, while others say they feel a bit hazier. Others say their lucid dreams feel different every time.
+</p>
+
+<pre>
+<blockquote cite="https://www.invajy.com/good-night-quotes/">
+“Sleep is the golden chain that binds health and our bodies together.” 
+~ Thomas Dekker
+</blockquote>
+</pre>
+
+<p> In order to experience a good night slumber,
+here are some tips we can offer you! </p>
+
+<ol type="I">
+       <b><li>PRACTICE GOOD SLEEP HYGIENE.</li></b><br>
+Good sleep hygiene increases our chances of a restful sleep, which in turn has the ability to improve our productivity, mental and physical wellbeing, and overall quality of life. Some other benefits include sharper memory, improved immune system, enhanced muscle repair, increased energy levels, and etc.<br>
+<br>
+
+<img src="https://www.verywellmind.com/thmb/x6Jj2sB6A9oaeFPkGt0_2YhBoLk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-sleep-hygiene-5085887-FINAL-831b8421e75249f0952fbf4efb0adda7.png" alt="Impactful Sleep Hygiene Practices" width="750" height="450"></br>
+<br>
+<a href="https://www.cdc.gov/sleep/about_sleep/sleep_hygiene.html">Basics about sleep.</a></br>Tips for better sleep.<br>
+<br>
+<a href="https://www.youtube.com/watch?v=-HtzWrwuHcI">Visit Sleep is the Foundation!</a></br>Songs for a good night slumber.<br>
+<br>
+<a href="https://www.youtube.com/watch?v=gjXm4ypdU50">Sleep Lofi!</a></br>
+<button type="button" onclick="alert('Sleep well because my love is the wings to cover you and my hug and kiss are the warmth to give you pleasure. Good night, darling.')">Hey, tap me for a good night message!</button></br>
+<br>
+
+       <b><li>USE A DREAM JOURNAL.</li></b><br>
+Keeping a dream journal, or dream diary, is a popular method for initiating lucid dreaming. When you write down your dreams, you’re forced to remember what happens during each dream. It’s said to help you recognize dreamsigns and enhance awareness of your dreams. For best results, log your dreams as soon as you wake up. It’s also recommended to read your dream journal often.<br>
+<br>
+You can order here:<br>
+<a href="https://shopee.ph/bnesos">Journal notebooks</a><br>
+<a href="https://shopee.ph/oumistationery">Stationeries</a><br>
+<a href="https://shopee.ph/digiprint_connection">Binders</a><br>
+<br>
+       <b><li>DEVELOP REALITY-TESTING SYSTEM.</li></b><br>
+       <details>
+<summary><ins>What is reality testing?</ins></summary><br>
+The concept of reality testing was introduced by Sigmund Freud, the founder of psychoanalysis, who used it to determine whether patients could separate the external world from their own thoughts and feelings.Reality testing can also help you overcome cognitive biases that might be holding you back.<br>
+The practice of reality testing can be applied by anyone in everyday life.
+</details>
+<br>Here are a few things to keep in mind when doing this:<br>
+<br>
+1. Try to be objective and analyse the situation from as many points of view as possible.<br>
+2. Consider the possibility that you misinterpreted the situation. <br>
+3. Acknowledge other people’s thoughts and feelings.<br>
+4. Think first, act later.<br>
+5. Try to spot patterns in your emotional reactions. <br>
+6. Assess whether you’re magnifying or minimising your emotional response. <br>
+7. Practice emotional reasoning.<br>
+8. Ask a friend what they think about the situation.<br>
+<br>
+       <b><li>EXPERIMENT WITH THE MNEUMONIC INDUCTION OF LUCID DREAMS.</li></b><br>
+<ins>MILD (mnemonic induction of lucid dreams)</ins>
+<dd>which involves waking up after five hours of sleep and then developing the intention to remember that you are dreaming before returning to sleep, by repeating the phrase: "The next time I'm dreaming, I will remember that I'm dreaming."</dd>
+<br>
+<img src="https://www.verywellmind.com/thmb/lWiwcOsNj7GzfyHE5UgpCZ1exHg=/5850x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-a-lucid-dream-5077887_color_v1-ffd244c86e1f4186beefbcb1eaa393b4.jpg"width="750" height="500"></br>
+<br>
+       <b><li>TRY THE WAKE BACK TO BED TECHNIQUE.</li></b><br>
+Wake up Back to Bed is a lucid dreaming technique used to induce DILD's, it is very powerful and effective for most people.<br>
+<br>
+Lucid dreamers use a few different methods:<br>
+<br>
+1. Set an alarm for 5 hours after your bedtime.<br>
+2. Go to sleep as usual.<br>
+3. When the alarm goes off, stay up for 30 minutes. Enjoy a quiet activity like reading.<br>
+4. Fall back asleep.<br>
+</ol><br>
+
+<font size="5"><b>How to Wake Up.</b></font><br>
+<br>
+Sometimes, you might want to wake up from a lucid dream especially when it's a nightmare!<br>
+<br>
+Try the following methods to wake from a lucid dream:<br>
+<br>
+1. Call out for help.<br>
+2. Blink.<br>
+3. Fall asleep in your dream.<br>
+4. Read.<br>
+
+
+ <table>
+ <caption>
+ <h2 style="font-family:Heveltica;">The Do's and Dont's to Sleep</h2>
+  </caption>
+<style>
+table, th, td {border: 1px solid black;}
+</style>
+  <tr>
+    <th>DONT'S</th><th>DO'S</th>
+  </tr>
+  <tr>
+    <td>Don't drink caffeine-containing beverages (coffee, tea, soft drinks) after dinner.</td><td>Go to bed and wake up at the same time every day. Even if you have trouble falling asleep the night before, try to wake up at the same time. This helps maintain your body's natural sleep cycle.</td>
+  </tr>
+  <tr>
+    <td>Don't eat heavy or spicy food in the evening.</td><td>Exercise regularly. Exercise in moderate amounts early in the day.</td>
+  </tr>
+  <tr>
+    <td>Don't pull all nighters. Sleep is essential to retaining information.</td><td>Keep naps short and sweet. Try to sleep enough at night that you don't need naps during the day. </td>
+  </tr>
+  <tr>
+    <td>Don’t lie awake in bed for long periods of time and/or watch the clock. If you can’t fall asleep within 15 minutes, get out of bed. Write down your thoughts or do something relaxing before trying to fall back asleep again.</td><td>Turn off the bright lights of computers and phones within 2-3 hours of going to bed.</td>
+  </tr>
+</table>
+<br>
+<br>
+<details>
+<summary><ins>sources</ins></summary><br>
+https://www.healthline.com/health/healthy-sleep/how-to-lucid-dream#how-to-wake-up"<br>
+https://casper.com/blog/what-is-sleep-hygiene/#:~:text=Good%20sleep%20hygiene%20increases%20our,Improved%20immune%20system<br>
+</details>
+<br>
+<br>
+
+<p style="text-align:center;">Check out this super calming light triggers!</p>
+<div align="center"><video width="980" height="600" controls autoplay>
+  <source src="ShiverMeTingles.mp4" type="video/mp4">
+<source src="ShiverMeTingles.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video></div>
+<br>
+
+
+
+<hr size="10";background-color="purple"><br>
+
+Sign up for a free spiritual meditation session with coaching for 1 month!<br>
+<br>
+ <fieldset>
+ <legend>SIGN UP:</legend>
+ <div align="center">
+    <style>
+      div {margin-bottom: 10px;}
+      label {display: inline-block; width: 150px; text-align: right;}
+    </style>
+    <form action="/form/submit" method="post">
+      <div>
+        <label>NAME</label>
+        <input type="text" />
+      </div>
+      <div>
+        <label>EMAIL</label>
+        <input type="text" />
+      </div>
+      <div>
+        <label>PASSWORD</label>
+        <input type="text" />
+      </div>
+      <div>
+        <label>CONTACT NUMBER</label>
+        <input type="text" />
+      </div>
+     
+      <span>
+        <button type="button" onclick="alert('Thanks for signing up!')">SIGNUP</button> 
+        </br>
+         </div>
+         </fieldset>
+        <p>Open from <time>10:00</time> to <time>21:00</time> every weekend.</p>
+      </span>
+       </fieldset>
+<br>
+<p style="text-align:center;">&copy Dream Series. All rights reserved 2023</p>
